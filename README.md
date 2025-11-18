@@ -1,6 +1,8 @@
 StudyNotion Ed-Tech Project
 <p align="center">🧠 StudyNotion – MERN EdTech Platform</p>
-<p align="center"> <img src="https://fakeimg.pl/1200x300/1e1e2f/ffffff?text=StudyNotion+EdTech+Platform&font=bebas" alt="StudyNotion Banner"/> </p> <p align="center">A modern and scalable EdTech platform built using the MERN stack.</p> <p align="center"> <img src="https://img.shields.io/badge/Frontend-React.js-61dafb?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Authentication-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> </p>
+<p align="center"> <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/713c1a82-1d59-4ae4-ba2b-9c515f954172" />
+ </p> 
+<p align="center">A modern and scalable EdTech platform built using the MERN stack.</p> <p align="center"> <img src="https://img.shields.io/badge/Frontend-React.js-61dafb?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Authentication-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> </p>
 📚 Overview
 
 StudyNotion is a full-featured EdTech platform where students can learn, purchase courses, track progress, and watch videos, while instructors can create courses, upload content, and manage students.
@@ -174,5 +176,5 @@ This project is licensed under the ISC License.
 
 👨‍💻 Author
 
-Saikat Mukherjee
+Bambam Gupta
 Creator of StudyNotion – MERN EdTech Platform
