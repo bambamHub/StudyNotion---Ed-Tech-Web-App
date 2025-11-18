@@ -123,8 +123,8 @@ Start both together (from frontend)
 npm run dev
 
 📸 Screenshots (Add yours)
-![Home Page](<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/705b9060-7f88-4b22-9451-e1b7f45f7acb" />
-)
+![Home Page](https://github.com/user-attachments/assets/705b9060-7f88-4b22-9451-e1b7f45f7acb)
+
 ![Course Page](<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/1717cb28-cf85-440f-9378-02e61972357a" />
 )
 ![Video Player](<img width="1916" height="868" alt="image" src="https://github.com/user-attachments/assets/286902f5-519f-4d3d-8a0c-d71a7fe83b5b" />
